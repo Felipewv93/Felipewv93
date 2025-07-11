@@ -9,10 +9,10 @@ Seja bem-vindo(a) ao meu perfil no GitHub!</br></br>
 
 ## Tecnologias:
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)</br></br></br>
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)</br></br></br>
 
 <table>
   <tr>
