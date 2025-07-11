@@ -3,7 +3,7 @@
 Seja bem-vindo(a) ao meu perfil no GitHub!</br></br>
 
 ## Sobre mim:
-- **Desenvovedor Web**
+- **Desenvolvedor Web**
 - Atualmente focado na área de **dados** e estudando **automação**
 - Sempre buscando evoluir e explorar novas ferramentas e linguagens</br></br>
 
