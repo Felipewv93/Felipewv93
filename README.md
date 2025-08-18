@@ -26,5 +26,4 @@ Seja bem-vindo(a) ao meu perfil!</br></br>
 </table>
 <br><br>
 
-
 *Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e, quem sabe, colaborar comigo!*
