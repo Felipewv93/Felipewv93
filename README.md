@@ -1,6 +1,6 @@
 # Olá! Meu nome é Felipe Viana
 
-Seja bem-vindo(a) ao meu perfil no GitHub!</br></br>
+Seja bem-vindo(a) ao meu perfil!</br></br>
 
 ## Sobre mim:
 - **Desenvolvedor Web**
@@ -16,13 +16,15 @@ Seja bem-vindo(a) ao meu perfil no GitHub!</br></br>
 
 <table>
   <tr>
-    <td>
+    <td style="border: 2px solid red;">
       <img src="https://github-readme-stats.vercel.app/api?username=FelipeWV93&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
-    <td>
+    <td style="border: 2px solid blue;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWV93&layout=compact&theme=radical" alt="Top Languages"/>
     </td>
   </tr>
-</table></br></br>
+</table>
+<br><br>
+
 
 *Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e, quem sabe, colaborar comigo!*
