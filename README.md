@@ -14,16 +14,16 @@ Seja bem-vindo(a) ao meu perfil!</br></br>
 [![HTML](https://img.shields.io/badge/html-FFA500?style=for-the-badge&logo=html5&logoColor=black)]()
 [![CSS](https://img.shields.io/badge/css-8A2BE2?style=for-the-badge&logo=css3&logoColor=black)]()</br></br></br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FelipeWV93&show_icons=true&theme=dark" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWV93&layout=compact&theme=dark" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+ <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Felipewv93&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide=contribs" height="165"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipewv93&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="165"/>
+      </td>
+    </tr>
+  </table>
 
 
 
