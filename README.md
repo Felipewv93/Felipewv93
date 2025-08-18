@@ -8,11 +8,11 @@ Seja bem-vindo(a) ao meu perfil no GitHub!</br></br>
 - Sempre buscando evoluir e explorar novas ferramentas e linguagens</br></br>
 
 ## Tecnologias:
-[![PYTHON](https://img.shields.io/badge/python-00BFFF?style=for-the-badge&logo=python&logoColor=black)]()
-[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
-[![SQL](https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=sql&logoColor=white)]()
-[![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]())</br></br></br>
+[![PYTHON](https://img.shields.io/badge/python-00BFFF?style=for-the-badge&logo=python&logoColor=white)]()
+[![JAVASCRIPT](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/sql-F4A460?style=for-the-badge&logo=sql&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/html-FFA500?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/css-8A2BE2?style=for-the-badge&logo=css3&logoColor=white)]()</br></br></br>
 
 <table>
   <tr>
