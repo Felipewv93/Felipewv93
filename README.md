@@ -17,10 +17,10 @@ Seja bem-vindo(a) ao meu perfil!</br></br>
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FelipeWV93&show_icons=true&theme=blue-green" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=FelipeWV93&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWV93&layout=compact&theme=blue-green" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWV93&layout=compact&theme=tokyonight" alt="Top Languages"/>
     </td>
   </tr>
 </table>
