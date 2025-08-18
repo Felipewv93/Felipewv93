@@ -8,11 +8,11 @@ Seja bem-vindo(a) ao meu perfil no GitHub!</br></br>
 - Sempre buscando evoluir e explorar novas ferramentas e linguagens</br></br>
 
 ## Tecnologias:
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)</br></br></br>
+[![PYTHON](https://img.shields.io/badge/python-00BFFF?style=for-the-badge&logo=python&logoColor=black)]()
+[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=sql&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]())</br></br></br>
 
 <table>
   <tr>
