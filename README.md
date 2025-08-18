@@ -16,15 +16,17 @@ Seja bem-vindo(a) ao meu perfil!</br></br>
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,mysql)](https://skillicons.dev) -->
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,mysql)](https://skillicons.dev)
 
- <table>
-    <tr>
-      <img src="https://github-readme-stats.vercel.app/api?username=Felipewv93&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide=contribs" height="165"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipewv93&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="165"/>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=FelipeWV93&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWV93&layout=compact&theme=dark" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
