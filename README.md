@@ -13,6 +13,7 @@ Seja bem-vindo(a) ao meu perfil!</br></br>
 [![SQL](https://img.shields.io/badge/sql-F4A460?style=for-the-badge&logo=sql&logoColor=black)]()
 [![HTML](https://img.shields.io/badge/html-FFA500?style=for-the-badge&logo=html5&logoColor=black)]()
 [![CSS](https://img.shields.io/badge/css-8A2BE2?style=for-the-badge&logo=css3&logoColor=black)]()</br></br></br>
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,mysql)](https://skillicons.dev)
 
  <table>
     <tr>
