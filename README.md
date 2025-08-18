@@ -8,11 +8,12 @@ Seja bem-vindo(a) ao meu perfil!</br></br>
 - Sempre buscando evoluir e explorar novas ferramentas e linguagens</br></br>
 
 ## Tecnologias:
-[![PYTHON](https://img.shields.io/badge/python-00BFFF?style=for-the-badge&logo=python&logoColor=black)]()
+<!-- [![PYTHON](https://img.shields.io/badge/python-00BFFF?style=for-the-badge&logo=python&logoColor=black)]()
 [![JAVASCRIPT](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![SQL](https://img.shields.io/badge/sql-F4A460?style=for-the-badge&logo=sql&logoColor=black)]()
 [![HTML](https://img.shields.io/badge/html-FFA500?style=for-the-badge&logo=html5&logoColor=black)]()
 [![CSS](https://img.shields.io/badge/css-8A2BE2?style=for-the-badge&logo=css3&logoColor=black)]()</br></br></br>
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,mysql)](https://skillicons.dev) -->
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,css,mysql)](https://skillicons.dev)
 
  <table>
