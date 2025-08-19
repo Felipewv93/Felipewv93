@@ -13,7 +13,7 @@ Seja bem-vindo(a) ao meu perfil!</br></br>
  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" alt="Tecnologias" />
 </p></br></br>
 
-## <div align="center">Github Status</div>
+## <div align="center">GitHub Stats</div>
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=FelipeWV93&show_icons=true&icon_color=50FA7B&bg_color=000000&text_color=FF65C6&title_color=8BE9FD&hide_border=true&custom_title=What%20I've%20Been%20Up%20To" alt="GitHub Stats" />
