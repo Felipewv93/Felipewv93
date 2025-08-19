@@ -1,33 +1,27 @@
-# Olá! Meu nome é Felipe Viana
-
+<h1 align="center">Olá, meu nome é Felipe Viana</h1>
 Seja bem-vindo(a) ao meu perfil!</br></br>
 
-## Sobre mim:
+## <div align="center">Sobre Mim</div>
+
 - **Desenvolvedor Web**
 - Atualmente focado na área de **dados** e estudando **automação**
-- Sempre buscando evoluir e explorar novas ferramentas e linguagens</br></br>
+- Sempre buscando evoluir e explorar novas ferramentas e linguagens</br></br></br>
 
-## Tecnologias:
-<!-- [![PYTHON](https://img.shields.io/badge/python-00BFFF?style=for-the-badge&logo=python&logoColor=black)]()
-[![JAVASCRIPT](https://img.shields.io/badge/javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![SQL](https://img.shields.io/badge/sql-F4A460?style=for-the-badge&logo=sql&logoColor=black)]()
-[![HTML](https://img.shields.io/badge/html-FFA500?style=for-the-badge&logo=html5&logoColor=black)]()
-[![CSS](https://img.shields.io/badge/css-8A2BE2?style=for-the-badge&logo=css3&logoColor=black)]()</br></br></br>
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,mysql)](https://skillicons.dev) -->
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,mysql)](https://skillicons.dev)
+## <div align="center">Tecnologias</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=FelipeWV93&show_icons=true&theme=dark" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWV93&layout=compact&theme=dark" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" alt="Tecnologias" />
+</p></br></br>
 
+## <div align="center">Github Status</div>
 
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=FelipeWV93&show_icons=true&icon_color=50FA7B&bg_color=000000&text_color=FF65C6&title_color=8BE9FD&hide_border=true&custom_title=What%20I've%20Been%20Up%20To" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWV93&layout=compact&title_color=8BE9FD&text_color=FF65C6&bg_color=000000&hide_border=true&custom_title=Code%20Palette" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeWV93&bg_color=000000&color=FF65C6&title_color=8BE9FD&line=50FA7B&point=FFD6EB&area=true&area_color=8B008B&hide_border=true&days=15&custom_title=The%20Rhythm%20of%20My%20Code" /></p></br></br>
 
+---
 
-*Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e, quem sabe, colaborar comigo!*
+<i>Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e, quem sabe, colaborar comigo!</i>
