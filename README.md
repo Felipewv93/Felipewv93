@@ -1,13 +1,13 @@
-<h1 align="center">Olá, meu nome é Felipe Viana</h1>
-Seja bem-vindo(a) ao meu perfil!</br></br>
+<h1 align="center">Hi, I'm Felipe Viana</h1>
+Welcome to my profile!</br></br>
 
-## <div align="center">Sobre Mim</div>
+## <div align="center">About Me</div>
 
-- **Desenvolvedor Web**
-- Atualmente focado na área de **dados** e estudando **automação**
-- Sempre buscando evoluir e explorar novas ferramentas e linguagens</br></br></br>
+- **Web Developer**
+- Currently focused on **data** and exploring **automation**
+- Always up for learning new tools, languages & cool stuff</br></br></br>
 
-## <div align="center">Tecnologias</div>
+## <div align="center">Stacks</div>
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" alt="Tecnologias" />
@@ -24,4 +24,4 @@ Seja bem-vindo(a) ao meu perfil!</br></br>
 
 ---
 
-<i>Obrigado por visitar meu perfil! Fique à vontade para explorar meus projetos e, quem sabe, colaborar comigo!</i>
+<i>Thanks for stopping by! Feel free to check out my projects — and who knows, maybe we can collaborate sometime!</i>
