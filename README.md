@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 
-### Languages & Frameworks
+<h3 align="center">Languages & Frameworks</h3>
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=python" alt="Tecnologias" />
@@ -28,7 +28,7 @@
  <img src="https://skillicons.dev/icons?i=fastapi" alt="Tecnologias" />
 </p>
 
-### Data & Databases
+<h3 align="center">Data & Databases</h3>
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=mysql" alt="Tecnologias" />
@@ -37,7 +37,7 @@
  <img src="https://skillicons.dev/icons?i=supabase" alt="Tecnologias" />
 </p>
 
-### Tools & DevOps
+<h3 align="center">Tools & DevOps</h3>
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=docker" alt="Tecnologias" />
