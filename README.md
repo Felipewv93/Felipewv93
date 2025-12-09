@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Felipe Viana</h1>
+<h1 align="center">Hi, I'm Felipe Viana</h1>
 <h3 align="center">Python Developer | Data Analysis | Backend Development</h3>
 
 ---
