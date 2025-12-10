@@ -33,7 +33,6 @@
 <p align="center">
  <img src="https://skillicons.dev/icons?i=mysql" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=sqlite" alt="Tecnologias" />
- <img src="https://skillicons.dev/icons?i=postgresql" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=supabase" alt="Tecnologias" />
 </p>
 
