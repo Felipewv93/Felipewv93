@@ -61,10 +61,10 @@
 
 ## 🎯 What I'm Looking For
 
-- 🔍 **Data Analyst Intern** positions
-- 💻 **Python Developer Intern** roles
-- 🔧 **Backend Developer Intern** opportunities
-- 📊 **Business Intelligence Intern** positions
+-  **Data Analyst Intern** positions
+-  **Python Developer Intern** roles
+-  **Backend Developer Intern** opportunities
+-  **Business Intelligence Intern** positions
 
 ---
 
