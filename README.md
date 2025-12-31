@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - Studying **Analysis and Systems Development** at Faculdade Impacta
 - Transitioning to tech, focused on **Data Analysis** and **Backend Development**
@@ -14,7 +14,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <h3 align="center">Languages & Frameworks</h3>
 
@@ -46,7 +46,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=FelipeWV93&show_icons=true&icon_color=50FA7B&bg_color=000000&text_color=FF65C6&title_color=8BE9FD&hide_border=true&custom_title=What%20I've%20Been%20Up%20To" alt="GitHub Stats" />
@@ -59,7 +59,7 @@
 
 ---
 
-## 🎯 What I'm Looking For
+## What I'm Looking For
 
 -  **Data Analyst Intern** positions
 -  **Python Developer Intern** roles
