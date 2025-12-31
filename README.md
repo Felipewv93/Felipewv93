@@ -9,7 +9,7 @@
 - Transitioning to tech, focused on **Data Analysis** and **Backend Development**
 - Working with **Python**, **SQL**, **APIs**, and **Data Visualization**
 - Building projects with **Flask**, **Streamlit**, **Docker**, and **Microservices**
-- Currently learning: Data Engineering and Cloud Technologies
+- Currently learning: **Data Engineering** and **Cloud Technologies**
 - Always up for learning new tools, languages & cool stuff
 
 ---
