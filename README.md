@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  <i>Thanks for stopping by! Feel free to check out my projects — and who knows, maybe we can collaborate sometime!</i>
+  <i>Thanks for stopping by! Feel free to check out my projects, and who knows, maybe we can collaborate sometime!</i>
 </p>
