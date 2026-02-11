@@ -25,7 +25,6 @@
  <img src="https://skillicons.dev/icons?i=css" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=kotlin" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=flask" alt="Tecnologias" />
- <img src="https://skillicons.dev/icons?i=fastapi" alt="Tecnologias" />
 </p>
 
 <h3 align="center">Data & Databases</h3>
