@@ -1,10 +1,10 @@
-<h1>Felipe Viana</h1>
+## Felipe Viana
 
 ### Python Developer | Aspiring Data Engineer | Backend Solutions
 
 ---
 
-## About Me
+### About Me
 
 I’m currently studying **Analysis and Systems Development** at **Faculdade Impacta** and transitioning into **Data Engineering**.
 
@@ -12,7 +12,7 @@ I work with Python, SQL, RESTful APIs, and databases, developing projects using 
 
 ---
 
-## Stacks
+### Stacks
 
 <p>
  <img src="https://skillicons.dev/icons?i=python" alt="Tecnologias" />
@@ -31,14 +31,12 @@ I work with Python, SQL, RESTful APIs, and databases, developing projects using 
 
 ---
 
-## Professional Interests
+### Professional Interests
 
-- **Data Engineering Intern** opportunities
-- **Python Developer Intern** positions
-- **Backend Developer Intern** roles
+- Data Engineering Intern opportunities
+- Python Developer Intern positions
+- Backend Developer Intern roles
 
 ---
 
-<p>
-  <i>Thanks for stopping by! Feel free to check out my projects, and who knows, maybe we can collaborate sometime!</i>
-</p>
+*Thanks for stopping by! Feel free to check out my projects, and who knows, maybe we can collaborate sometime!*
