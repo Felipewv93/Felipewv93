@@ -1,72 +1,42 @@
-<h1 align="center">Hi, I'm Felipe Viana</h1>
-<h3 align="center">Python Developer | Data Analysis | Backend Development</h3>
+<h1>Felipe Viana</h1>
+
+### Python Developer | Aspiring Data Engineer | Backend Solutions
 
 ---
 
 ## About Me
 
-- Studying **Analysis and Systems Development** at Faculdade Impacta
-- Transitioning to tech, focused on **Data Analysis** and **Backend Development**
-- Working with **Python**, **SQL**, **APIs**, and **Data Visualization**
-- Building projects with **Flask**, **Streamlit**, **Docker**, and **Microservices**
-- Currently learning: **Data Engineering** and **Cloud Technologies**
-- Always up for learning new tools, languages & cool stuff
+I'm currently studying **Analysis and Systems Development** at Faculdade Impacta, transitioning to **Data Engineering** with a strong foundation in **Python** and **Backend Development**. I'm building foundational skills in **ETL processes**, **data modeling**, and **data pipeline architecture**, working with **Python**, **SQL**, **RESTful APIs**, and databases. I develop projects using **Flask**, **Docker**, and **Microservices Architecture**, currently learning **Cloud Technologies**.
 
 ---
 
-## Tech Stack
+## Stacks
 
-<h3 align="center">Languages & Frameworks</h3>
-
-<p align="center">
+<p>
  <img src="https://skillicons.dev/icons?i=python" alt="Tecnologias" />
+ <img src="https://skillicons.dev/icons?i=flask" alt="Tecnologias" />
+ <img src="https://skillicons.dev/icons?i=mysql" alt="Tecnologias" />
+ <img src="https://skillicons.dev/icons?i=sqlite" alt="Tecnologias" />
+ <img src="https://skillicons.dev/icons?i=supabase" alt="Tecnologias" />
+ <img src="https://skillicons.dev/icons?i=docker" alt="Tecnologias" />
+ <img src="https://skillicons.dev/icons?i=git" alt="Tecnologias" />
+ <img src="https://skillicons.dev/icons?i=aws" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=js" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=html" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=css" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=kotlin" alt="Tecnologias" />
- <img src="https://skillicons.dev/icons?i=flask" alt="Tecnologias" />
-</p>
-
-<h3 align="center">Data & Databases</h3>
-
-<p align="center">
- <img src="https://skillicons.dev/icons?i=mysql" alt="Tecnologias" />
- <img src="https://skillicons.dev/icons?i=sqlite" alt="Tecnologias" />
- <img src="https://skillicons.dev/icons?i=supabase" alt="Tecnologias" />
-</p>
-
-<h3 align="center">Tools & DevOps</h3>
-
-<p align="center">
- <img src="https://skillicons.dev/icons?i=docker" alt="Tecnologias" />
- <img src="https://skillicons.dev/icons?i=git" alt="Tecnologias" />
- <img src="https://skillicons.dev/icons?i=aws" alt="Tecnologias" />
 </p>
 
 ---
 
-## GitHub Stats
+## Professional Interests
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=FelipeWV93&show_icons=true&icon_color=50FA7B&bg_color=000000&text_color=FF65C6&title_color=8BE9FD&hide_border=true&custom_title=What%20I've%20Been%20Up%20To" alt="GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWV93&layout=compact&title_color=8BE9FD&text_color=FF65C6&bg_color=000000&hide_border=true&custom_title=Code%20Palette" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeWV93&bg_color=000000&color=FF65C6&title_color=8BE9FD&line=50FA7B&point=FFD6EB&area=true&area_color=8B008B&hide_border=true&days=30&custom_title=The%20Rhythm%20of%20My%20Code" />
-</p>
+- **Data Engineering Intern** opportunities
+- **Python Developer Intern** positions
+- **Backend Developer Intern** roles
 
 ---
 
-## What I'm Looking For
-
--  **Data Analyst Intern** positions
--  **Python Developer Intern** roles
--  **Backend Developer Intern** opportunities
--  **Business Intelligence Intern** positions
-
----
-
-<p align="center">
+<p>
   <i>Thanks for stopping by! Feel free to check out my projects, and who knows, maybe we can collaborate sometime!</i>
 </p>
