@@ -1,6 +1,6 @@
 ## Felipe Viana
 
-### Python Developer | Aspiring Data Engineer | Backend Solutions
+### Python Developer | Data Engineering | Backend
 
 ---
 
