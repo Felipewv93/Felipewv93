@@ -17,16 +17,13 @@ I work with Python, SQL, RESTful APIs, and databases, developing projects using 
 <p>
  <img src="https://skillicons.dev/icons?i=python" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=flask" alt="Tecnologias" />
- <img src="https://skillicons.dev/icons?i=mysql" alt="Tecnologias" />
+ <img src="https://skillicons.dev/icons?i=fastapi" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=sqlite" alt="Tecnologias" />
+ <img src="https://skillicons.dev/icons?i=mysql" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=supabase" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=docker" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=git" alt="Tecnologias" />
  <img src="https://skillicons.dev/icons?i=aws" alt="Tecnologias" />
- <img src="https://skillicons.dev/icons?i=js" alt="Tecnologias" />
- <img src="https://skillicons.dev/icons?i=html" alt="Tecnologias" />
- <img src="https://skillicons.dev/icons?i=css" alt="Tecnologias" />
- <img src="https://skillicons.dev/icons?i=kotlin" alt="Tecnologias" />
 </p>
 
 ---
