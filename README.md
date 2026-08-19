@@ -6,9 +6,9 @@
 
 ### About Me
 
-I’m currently studying **Analysis and Systems Development** at **Faculdade Impacta** and transitioning into **Data Engineering**.
+I’m currently studying **Analysis and Systems Development** at **Faculdade Impacta**.
 
-I work with Python, SQL, RESTful APIs, and databases, developing projects using Flask, Docker, and microservices architecture. Right now, I’m expanding my knowledge in ETL processes, data modeling and cloud technologies.
+I work with Python, SQL, RESTful APIs, and databases, developing projects using FastAPI, Docker, and microservices architecture. Right now, I’m expanding my knowledge in ETL processes, data modeling and cloud technologies.
 
 ---
 
